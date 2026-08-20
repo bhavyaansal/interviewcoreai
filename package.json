@@ -1,4 +1,13 @@
 {
+  "name": "interviewcore-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend/interview-prep-ai run dev",
+    "build:frontend": "npm --prefix frontend/interview-prep-ai run build",
+    "lint:frontend": "npm --prefix frontend/interview-prep-ai run lint"
+  },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
     "axios": "^1.13.4",
