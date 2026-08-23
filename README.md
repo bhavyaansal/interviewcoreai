@@ -30,4 +30,4 @@ AI Integration: AI API for generating interview questions and explanations
 https://interview-prep-ai-lemon.vercel.app/
 
 ## Author
-Manvansh Singh
+Bhavya
