@@ -24,8 +24,8 @@ const allowedOrigins = [
   "http://localhost:5174",
   "http://localhost:3000",
   "http://127.0.0.1:5173",
-  "https://interview-prep-ai-lemon.vercel.app",
-  "https://interview-prep-ai-4v64.onrender.com",
+  "https://interviewcoreai.vercel.app",
+  "https://interviewcoreai.onrender.com",
 ];
 
 app.use(
