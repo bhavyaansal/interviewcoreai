@@ -27,7 +27,7 @@ Backend:
 AI Integration: AI API for generating interview questions and explanations
 
 ## Live Link
-https://interview-prep-ai-lemon.vercel.app/
+https://interviewcoreai.vercel.app/
 
 ## Author
 Bhavya
